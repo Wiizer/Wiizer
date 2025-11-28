@@ -9,21 +9,19 @@
 <!-- BADGES SOCIAUX MODERNES -->
 <p align="center">
   <a href="https://github.com/Wiizer">
-    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=1a1b27&color=00d9ff&query=%24.login&url=https://api.github.com/users/Wiizer&style=for-the-badge&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-Wiizer-181717?style=flat&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub"/>
   </a>
   <a href="https://discord.com/users/123659190044034078">
-    <img src="https://lanyard.cnrad.dev/api/123659190044034078?borderRadius=10px&idleMessage=Probablement%20en%20train%20de%20coder..." alt="Discord"/>
+    <img src="https://img.shields.io/badge/Discord-Wiizer-5865F2?style=flat&logo=discord&logoColor=white&labelColor=1a1b27" alt="Discord"/>
   </a>
-</p>
-<p align="center">
   <a href="https://www.youtube.com/@Wiizer-b7n">
-    <img src="https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=1a1b27&color=FF0000" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/YouTube-@Wiizer-FF0000?style=flat&logo=youtube&logoColor=white&labelColor=1a1b27" alt="YouTube"/>
   </a>
   <a href="https://www.twitch.tv/wiizerstudio">
-    <img src="https://img.shields.io/twitch/status/wiizerstudio?style=for-the-badge&logo=twitch&logoColor=white&label=Twitch&labelColor=1a1b27&color=9146FF" alt="Twitch"/>
+    <img src="https://img.shields.io/badge/Twitch-wiizerstudio-9146FF?style=flat&logo=twitch&logoColor=white&labelColor=1a1b27" alt="Twitch"/>
   </a>
   <a href="https://www.paypal.com/paypalme/WiizerCode">
-    <img src="https://img.shields.io/badge/Support-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1a1b27" alt="PayPal"/>
+    <img src="https://img.shields.io/badge/PayPal-Support-00457C?style=flat&logo=paypal&logoColor=white&labelColor=1a1b27" alt="PayPal"/>
   </a>
 </p>
 
