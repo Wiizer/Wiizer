@@ -37,11 +37,31 @@
 
 ---
 
-## 💻 **TECH STACK & ARSENAL**
+<h2 align="center">💻 TECH STACK & ARSENAL</h2>
+
+<div align="center">
+  
+```ascii
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║  🎯 Langages • Frameworks • Tools • Cloud • AI & Games       ║
+  ╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<!-- SKILL ICONS - Ultra moderne et visuel -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,py,cs,js,nodejs,deno,bun,react,nextjs,express,unity,unreal,godot,pytorch,tensorflow,postgres,mongodb,redis,docker,kubernetes,aws,git,github,vscode,linux,figma&theme=dark&perline=14" />
+</p>
 
 <div align="center">
 
-### **Core Languages**
+<table>
+<tr>
+<td width="25%" align="center">
+
+### ⚡ Languages
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&labelColor=1a1b27)
 ![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat&logo=rust&logoColor=white&labelColor=1a1b27)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&labelColor=1a1b27)
@@ -49,7 +69,11 @@
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white&labelColor=1a1b27)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&labelColor=1a1b27)
 
-### **Runtime & Frameworks**
+</td>
+<td width="25%" align="center">
+
+### 🚀 Runtime & Web
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&labelColor=1a1b27)
 ![Deno](https://img.shields.io/badge/Deno-000000?style=flat&logo=deno&logoColor=white&labelColor=1a1b27)
 ![Bun](https://img.shields.io/badge/Bun-FBF0DF?style=flat&logo=bun&logoColor=black&labelColor=1a1b27)
@@ -57,31 +81,125 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white&labelColor=1a1b27)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&labelColor=1a1b27)
 
-### **Game Development**
+</td>
+<td width="25%" align="center">
+
+### 🎮 Game Dev & AI
+
 ![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black&labelColor=1a1b27)
-![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white&labelColor=1a1b27)
+![Unreal](https://img.shields.io/badge/Unreal-0E1128?style=flat&logo=unrealengine&logoColor=white&labelColor=1a1b27)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=white&labelColor=1a1b27)
-
-### **AI & Machine Learning**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white&labelColor=1a1b27)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=1a1b27)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white&labelColor=1a1b27)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat&labelColor=1a1b27)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white&labelColor=1a1b27)
 
-### **Database & Cloud**
+</td>
+<td width="25%" align="center">
+
+### ☁️ Cloud & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1a1b27)
+![Kubernetes](https://img.shields.io/badge/K8s-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=1a1b27)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white&labelColor=1a1b27)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&labelColor=1a1b27)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&labelColor=1a1b27)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white&labelColor=1a1b27)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&labelColor=1a1b27)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&labelColor=1a1b27)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white&labelColor=1a1b27)
 
-### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white&labelColor=1a1b27)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white&labelColor=1a1b27)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white&labelColor=1a1b27)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black&labelColor=1a1b27)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white&labelColor=1a1b27)
+</td>
+</tr>
+</table>
+
+</div>
+
+<!-- Tech Stack Details avec emojis -->
+<details>
+<summary><b>🔍 Voir le détail complet de mon arsenal technique</b></summary>
+<br>
+
+<div align="center">
+
+### 🎨 **Frontend & UI/UX**
+```yaml
+Frameworks: React, Next.js, Svelte, Vue.js
+Styling:    Tailwind CSS, Styled Components, Sass
+State:      Redux, Zustand, Recoil, Context API
+Design:     Figma, Adobe XD, Framer
+Animation:  Framer Motion, GSAP, Three.js
+```
+
+### ⚙️ **Backend & APIs**
+```yaml
+Runtimes:     Node.js, Deno, Bun
+Frameworks:   Express, Fastify, NestJS, Hono
+APIs:         REST, GraphQL, tRPC, gRPC
+Testing:      Jest, Vitest, Playwright, Cypress
+Auth:         JWT, OAuth 2.0, NextAuth, Passport.js
+```
+
+### 🎮 **Game Development**
+```yaml
+Engines:      Unity (C#), Unreal Engine (C++/Blueprint), Godot (GDScript)
+Specialties:  Gameplay Systems, Editor Tools, Procedural Generation
+Tools:        Blender (basics), ProBuilder, Shader Graph
+Physics:      Unity Physics, Havok, Custom implementations
+```
+
+### 🤖 **AI & Machine Learning**
+```yaml
+LLMs:         OpenAI GPT-4, Claude, Gemini, Local LLMs (Ollama)
+Frameworks:   LangChain, LlamaIndex, Transformers
+ML:           PyTorch, TensorFlow, scikit-learn
+Computer Vision: OpenCV, YOLO, Stable Diffusion
+RAG Systems:  Vector DBs (Pinecone, Weaviate), Embeddings
+```
+
+### 🗄️ **Databases & Storage**
+```yaml
+SQL:          PostgreSQL, MySQL, SQLite
+NoSQL:        MongoDB, Redis, Firebase
+ORMs:         Prisma, Drizzle, TypeORM, Mongoose
+Caching:      Redis, Memcached
+Vector DBs:   Pinecone, Weaviate, ChromaDB
+```
+
+### ☁️ **Cloud & Infrastructure**
+```yaml
+Cloud:        AWS (EC2, S3, Lambda), Vercel, Railway, Fly.io
+Containers:   Docker, Docker Compose, Kubernetes
+CI/CD:        GitHub Actions, GitLab CI, Jenkins
+Monitoring:   Grafana, Prometheus, Sentry
+IaC:          Terraform, Pulumi
+```
+
+### 🛠️ **Development Tools**
+```yaml
+Editors:      VS Code, Cursor, Neovim
+Version Control: Git, GitHub, GitLab
+Terminal:     Zsh, Oh My Zsh, Starship
+Package Managers: pnpm, npm, yarn, cargo, go mod
+Build Tools:  Vite, Turbopack, esbuild, Webpack
+```
+
+### 📱 **Other Skills**
+```yaml
+Mobile:       React Native, Expo
+Desktop:      Electron, Tauri
+Systems:      Linux (Ubuntu, Arch), Windows, macOS
+Scripting:    Bash, Python, PowerShell
+Protocols:    WebSocket, WebRTC, HTTP/3, Server-Sent Events
+```
+
+</div>
+
+</details>
+
+<div align="center">
+
+```diff
++ 🎯 Toujours en train d'apprendre et d'explorer de nouvelles technologies
++ 🚀 Passion pour la performance, l'architecture propre et l'innovation
++ 💡 Open source contributor & tech enthusiast
+```
 
 </div>
 
