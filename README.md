@@ -337,10 +337,8 @@ graph LR
 /:/\:\__\ /\/::\__\ /\/::\__\ /::\/\__\ /::\:\__\ /::\:\__\
 \:\ \/__/ \::/\/__/ \::/\/__/ \/|::/  / \:\:\/  / \;:::/  /
  \:\__\    \:\__\    \:\__\     |:/  /   \:\/  /   |:\/__/ 
-  \/__/     \/__/     \/__/     \/__/     \/__/     \|__|  
+   \/__/     \/__/     \/__/     \/__/     \/__/     \|__|  
 ```
-
-<img src="https://raw.githubusercontent.com/Wiizer/Wiizer/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
