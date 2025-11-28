@@ -6,25 +6,24 @@
 <!-- TYPING SVG ANIMATION -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+Game+Engineering+%F0%9F%8E%AE;System+Architecture+%E2%9A%99%EF%B8%8F;Creative+Tech+Builder+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<!-- BADGES SOCIAUX ANIMÉS -->
+<!-- BADGES SOCIAUX MODERNES -->
 <p align="center">
   <a href="https://github.com/Wiizer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=1a1b27&color=00d9ff&query=%24.login&url=https://api.github.com/users/Wiizer&style=for-the-badge&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://discord.com/users/123659190044034078">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://lanyard.cnrad.dev/api/123659190044034078?borderRadius=10px&idleMessage=Probablement%20en%20train%20de%20coder..." alt="Discord"/>
   </a>
+</p>
+<p align="center">
   <a href="https://www.youtube.com/@Wiizer-b7n">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    <img src="https://img.shields.io/youtube/channel/subscribers/UC_YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&logoColor=white&label=YouTube&labelColor=1a1b27&color=FF0000" alt="YouTube"/>
   </a>
   <a href="https://www.twitch.tv/wiizerstudio">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
-  </a>
-  <a href="https://open.spotify.com/user/31dfpyg3asy5cxvaqguikd3vv2gi">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+    <img src="https://img.shields.io/twitch/status/wiizerstudio?style=for-the-badge&logo=twitch&logoColor=white&label=Twitch&labelColor=1a1b27&color=9146FF" alt="Twitch"/>
   </a>
   <a href="https://www.paypal.com/paypalme/WiizerCode">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
+    <img src="https://img.shields.io/badge/Support-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&labelColor=1a1b27" alt="PayPal"/>
   </a>
 </p>
 
@@ -300,16 +299,6 @@ graph LR
 
 ---
 
-## 🎵 **CURRENTLY VIBING TO**
-
-<div align="center">
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dfpyg3asy5cxvaqguikd3vv2gi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true)](https://open.spotify.com/user/31dfpyg3asy5cxvaqguikd3vv2gi)
-
-</div>
-
----
-
 ## 📬 **LET'S CONNECT**
 
 <div align="center">
@@ -325,9 +314,6 @@ graph LR
   </a>
   <a href="https://www.twitch.tv/wiizerstudio">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>
-  <a href="https://open.spotify.com/user/31dfpyg3asy5cxvaqguikd3vv2gi">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="https://www.paypal.com/paypalme/WiizerCode">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
