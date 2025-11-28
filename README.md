@@ -20,6 +20,9 @@
   <a href="https://www.twitch.tv/wiizerstudio">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
   </a>
+  <a href="https://open.spotify.com/user/31dfpyg3asy5cxvaqguikd3vv2gi">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+  </a>
   <a href="https://www.paypal.com/paypalme/WiizerCode">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
   </a>
@@ -297,6 +300,16 @@ graph LR
 
 ---
 
+## 🎵 **CURRENTLY VIBING TO**
+
+<div align="center">
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dfpyg3asy5cxvaqguikd3vv2gi&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=true&bar_color=00d9ff&bar_color_cover=true)](https://open.spotify.com/user/31dfpyg3asy5cxvaqguikd3vv2gi)
+
+</div>
+
+---
+
 ## 📬 **LET'S CONNECT**
 
 <div align="center">
@@ -312,6 +325,9 @@ graph LR
   </a>
   <a href="https://www.twitch.tv/wiizerstudio">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>
+  <a href="https://open.spotify.com/user/31dfpyg3asy5cxvaqguikd3vv2gi">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
   <a href="https://www.paypal.com/paypalme/WiizerCode">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
