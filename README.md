@@ -1,10 +1,6 @@
 <!-- BANNIÈRE -->
 <p align="center">
-<<<<<<< HEAD
   <img src="https://raw.githubusercontent.com/Wiizer/Wiizer/main/Wiizer_Banniere.png" width="100%" alt="Wiizer Banner">
-=======
-  <img src="[https://raw.githubusercontent.com/username/username/main/banner.png](https://github.com/Wiizer/Wiizer/blob/main/Wiizer_Banniere.png)" width="100%" alt="Banner">
->>>>>>> 0cf38cf3e2b06343d3af3bbc6e0dde7c3cf80c99
 </p>
 
 <h1 align="center">🚀 Développeur · Créateur · Builder</h1>
