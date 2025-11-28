@@ -27,11 +27,12 @@
   </a>
 </p>
 
-<!-- COMPTEURS LIVE -->
+<!-- COMPTEURS LIVE MODERNES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Wiizer&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Wiizer?label=Followers&style=for-the-badge&color=00d9ff" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Wiizer?label=Stars&style=for-the-badge&color=00d9ff" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Wiizer&label=Profile+Views&color=00d9ff&style=flat-square&labelColor=1a1b27" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Wiizer?label=Followers&style=flat-square&color=00d9ff&labelColor=1a1b27&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Wiizer?label=Total+Stars&style=flat-square&color=00d9ff&labelColor=1a1b27&logo=github" alt="Stars" />
+  <img src="https://img.shields.io/badge/Status-Building-00d9ff?style=flat-square&labelColor=1a1b27&logo=statuspal" alt="Status" />
 </p>
 
 </div>
@@ -65,46 +66,46 @@
 <div align="center">
 
 ### **Core Languages**
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=1a1b27)
+![Rust](https://img.shields.io/badge/Rust-CE422B?style=flat-square&logo=rust&logoColor=white&labelColor=1a1b27)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=1a1b27)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=1a1b27)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=1a1b27)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&labelColor=1a1b27)
 
 ### **Runtime & Frameworks**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white&labelColor=1a1b27)
+![Deno](https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white&labelColor=1a1b27)
+![Bun](https://img.shields.io/badge/Bun-FBF0DF?style=flat-square&logo=bun&logoColor=black&labelColor=1a1b27)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=1a1b27)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white&labelColor=1a1b27)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&labelColor=1a1b27)
 
 ### **Game Development**
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=unity&logoColor=black&labelColor=1a1b27)
+![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=unreal-engine&logoColor=white&labelColor=1a1b27)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white&labelColor=1a1b27)
 
 ### **AI & Machine Learning**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white&labelColor=1a1b27)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=1a1b27)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white&labelColor=1a1b27)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square&labelColor=1a1b27)
 
 ### **Database & Cloud**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=1a1b27)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=1a1b27)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=1a1b27)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1b27)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white&labelColor=1a1b27)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white&labelColor=1a1b27)
 
 ### **Tools & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=1a1b27)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white&labelColor=1a1b27)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&labelColor=1a1b27)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black&labelColor=1a1b27)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white&labelColor=1a1b27)
 
 </div>
 
@@ -307,16 +308,16 @@ graph LR
 
 <p>
   <a href="https://discord.com/users/123659190044034078">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white&labelColor=1a1b27" />
   </a>
   <a href="https://www.youtube.com/@Wiizer-b7n">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white&labelColor=1a1b27" />
   </a>
   <a href="https://www.twitch.tv/wiizerstudio">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white&labelColor=1a1b27" />
   </a>
   <a href="https://www.paypal.com/paypalme/WiizerCode">
-    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" />
+    <img src="https://img.shields.io/badge/Support-PayPal-00457C?style=flat-square&logo=paypal&logoColor=white&labelColor=1a1b27" />
   </a>
 </p>
 
