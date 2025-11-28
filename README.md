@@ -1,6 +1,6 @@
 <!-- BANNIÈRE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/banner.png" width="100%" alt="Banner">
+  <img src="https://raw.githubusercontent.com/Wiizer/Wiizer/main/Wiizer_Banniere.png" width="100%" alt="Wiizer Banner">
 </p>
 
 <h1 align="center">🚀 Développeur · Créateur · Builder</h1>
@@ -46,11 +46,11 @@ Actuellement en mode **accélération** sur projets IA + jeux + pipelines automa
 
 ## 🏆 Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&hide_border=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?username=Wiizer&show_icons=true&hide_border=true&theme=tokyonight">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&hide_border=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wiizer&layout=compact&hide_border=true&theme=tokyonight">
 </p>
 
 ---
